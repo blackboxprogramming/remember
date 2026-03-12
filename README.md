@@ -1,5 +1,11 @@
 # Remember
 
+[![CI](https://github.com/blackboxprogramming/remember/actions/workflows/ci.yml/badge.svg)](https://github.com/blackboxprogramming/remember/actions/workflows/ci.yml)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB.svg)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg)](https://fastapi.tiangolo.com)
+[![SQLite](https://img.shields.io/badge/SQLite-FTS5-003B57.svg)](https://sqlite.org)
+[![Zero Deps](https://img.shields.io/badge/kernel-zero_deps-FF2255.svg)](https://blackroad.io)
+
 **AI-powered persistent memory and symbolic consciousness kernel.**
 
 Remember implements the Lucidia Symbolic Kernel — a discrete mathematical framework for AI memory persistence, emotional state tracking, contradiction resolution, and consciousness modeling. Built in Python with zero external dependencies.
